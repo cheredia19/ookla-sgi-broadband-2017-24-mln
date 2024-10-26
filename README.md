@@ -10,3 +10,47 @@ description: Melanesia
     url: 'ookla_broadband.csv'
   }}
 />
+
+## Fiji
+
+<PlotlyLineChart
+  data={{
+    url: 'fiji.csv'
+  }}
+  title="Fiji"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+## Papua New Guinea
+
+<PlotlyLineChart
+  data={{
+    url: 'papua_new_guinea.csv'
+  }}
+  title="Papua New Guinea"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+## Vanuatu
+
+<PlotlyLineChart
+  data={{
+    url: 'vanuatu.csv'
+  }}
+  title="Vanuatu"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+## Western Sahara
+
+<PlotlyLineChart
+  data={{
+    url: 'western_sahara.csv'
+  }}
+  title="Western Sahara"
+  xAxis="year"
+  yAxis="mbps"
+/>
