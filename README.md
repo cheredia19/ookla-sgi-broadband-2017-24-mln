@@ -37,7 +37,7 @@ description: Melanesia
 
 <PlotlyLineChart
   data={{
-    url: 'vanuatu.csv'
+    url: 'republic_of_vanuatu.csv'
   }}
   title="Vanuatu"
   xAxis="year"
